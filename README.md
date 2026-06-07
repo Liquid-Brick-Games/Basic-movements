@@ -9,7 +9,7 @@ Practice with basic character movements.
   2. Jump.
   3. Dash.
 - Implementation of two different approach for character movement:
-  1. "RGP-style" - both camera and character rotates freely, separatly from each other.
+  1. "RGP-style" - both camera and character rotates freely, separately from each other.
   2. "TPS-style" - character moves only where camera looks (`camera.froward`). Side movement buttons is responsible for strafing.
 
 
