@@ -1,0 +1,28 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+/Library/
+/Logs/
+/Temp/
+/UserSettings/
+/Obj/
+/Build/
+/Builds/
+/Captures/
+
+# Visual Studio
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.ide
+
+# Cache
+.DS_Store
+Thumbs.db
